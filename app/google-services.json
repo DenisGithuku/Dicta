@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "281031812409",
+    "project_id": "dicta-android",
+    "storage_bucket": "dicta-android.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:281031812409:android:a3ef76d9fb8a40368a74e8",
+        "android_client_info": {
+          "package_name": "com.githukudenis.dicta"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAJv4UfPpi1kUytJZCCmS6g_2D5tAhiEpM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:281031812409:android:12552b825fb646838a74e8",
+        "android_client_info": {
+          "package_name": "com.githukudenis.dicta.debug"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAJv4UfPpi1kUytJZCCmS6g_2D5tAhiEpM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
